@@ -17,3 +17,5 @@
     angular , react
 
     sass
+    charaf
+    abdelbaru
