@@ -17,5 +17,6 @@
     angular , react
 
     sass
-    charaf
-    abdelbaru
+    oussama 
+    goumghar
+
