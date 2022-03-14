@@ -15,3 +15,6 @@ Add some lectures to test comparaison concept
 
 ##GIT Compariason with Repo
 Add some words to view chages with the last commit
+
+##Git Stashing
+add this line to test git stashing command
